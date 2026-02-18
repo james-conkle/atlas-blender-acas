@@ -6,7 +6,7 @@
 
 ## Creation Link
 
-<!-- Paste the GitHub URL to the https://github.com/james-conkle/atlas-blender-acas/new/main -->
+[<!-- Paste the GitHub URL to the https://github.com/james-conkle/atlas-blender-acas/new/main -->](https://github.com/james-conkle/atlas-blender-acas/new/main)
 
 ---
 
